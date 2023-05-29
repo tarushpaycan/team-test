@@ -6,6 +6,7 @@
 # 3. To run on a Mac, comment out windowsFonts and uncomment the last two commands for the font
 #########################################################
 
+
 # Initialize
 gc()
 rm(list=ls())
